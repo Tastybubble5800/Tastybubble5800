@@ -1,0 +1,25 @@
+.header {
+  color: red ;
+}
+
+body {
+  width: 1024px;
+  text-align: center;
+  color: green;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family:Faster one;
+  background-color: yellow;
+  border: 2px solid red;
+}
+
+img {
+  text-align: center;
+  width:50%
+}
+
+div { 
+  font-size: 30px;
+}
